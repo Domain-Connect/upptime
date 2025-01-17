@@ -29,13 +29,13 @@ sites:
     port: 53
     assignees:
       - pawel-kow
-  - name: Demo DNS Provider NS2
-    check: "tcp-ping"
-    url: ns2.dc.paulonet.eu
-    port: 53
-    ipv6: true
-    assignees:
-      - pawel-kow
+#  - name: Demo DNS Provider NS2
+#    check: "tcp-ping"
+#    url: ns2.dc.paulonet.eu
+#    port: 53
+#    ipv6: true
+#    assignees:
+#      - pawel-kow
     
 assignees:
   - rphilip

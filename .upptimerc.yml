@@ -5,12 +5,21 @@ repo: upptime # The name of this repository
 sites:
   - name: Domainconnect.org
     url: https://domainconnect.org
+    assignees:
+      - rphilip
   - name: Domainconnect.org example service
     url: https://exampleservice.domainconnect.org/
+    assignees:
+      - rphilip
   - name: Domainconnect.org DynDNS
     url: https://dynamicdns.domainconnect.org/ddnscode?code=test&state=null
+    assignees:
+      - rphilip
   - name: Domainconnect.org Status website
     url: https://status.domainconnect.org
+    assignees:
+      - pawel-kow
+      - rphilip
   - name: Domain Connect Open template editor
     url: https://domainconnect.paulonet.eu/dc/free/templateedit
     assignees:
@@ -37,9 +46,9 @@ sites:
 #    assignees:
 #      - pawel-kow
     
-assignees:
-  - rphilip
-  - pawel-kow
+#assignees:
+#  - rphilip
+#  - pawel-kow
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

@@ -11,7 +11,13 @@ sites:
     url: https://dynamicdns.domainconnect.org/ddnscode?code=test&state=null
   - name: Domainconnect.org Status website
     url: https://status.domainconnect.org
-
+  - name: Domain Connect Open template editor
+    url: https://domainconnect.paulonet.eu/dc/free/templateedit
+  - name: Domain Connect Demo DNS Provider
+    url: https://domainconnect.paulonet.eu/
+  - name: Domain Connect IAM
+    url: https://lemur-2.cloud-iam.com/auth/realms/domainconnect-iam/account/applications
+    
 assignees:
   - rphilip
   - pawel-kow

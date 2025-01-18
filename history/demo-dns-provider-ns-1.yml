@@ -1,7 +1,7 @@
 url: ns1.dc.paulonet.eu
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-01-18T13:07:13.950Z
+status: up
+code: 200
+responseTime: 163
+lastUpdated: 2025-01-18T13:24:06.723Z
 startTime: 2025-01-17T06:39:22.941Z
 generator: Upptime <https://github.com/upptime/upptime>

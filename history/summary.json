@@ -89,19 +89,19 @@
     "url": "https://domainconnect.paulonet.eu/dc/free/templateedit",
     "icon": "https://icons.duckduckgo.com/ip3/domainconnect.paulonet.eu.ico",
     "slug": "domain-connect-open-template-editor",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 3086,
-    "timeDay": 7709,
-    "timeWeek": 3086,
-    "timeMonth": 3086,
-    "timeYear": 3086,
+    "status": "up",
+    "uptime": "99.08%",
+    "uptimeDay": "98.81%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.08%",
+    "time": 2757,
+    "timeDay": 5401,
+    "timeWeek": 2757,
+    "timeMonth": 2757,
+    "timeYear": 2757,
     "dailyMinutesDown": {
-      "2025-01-18": 1
+      "2025-01-18": 17
     }
   },
   {
@@ -109,19 +109,19 @@
     "url": "https://domainconnect.paulonet.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/domainconnect.paulonet.eu.ico",
     "slug": "domain-connect-demo-dns-provider",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 784,
-    "timeDay": 1731,
-    "timeWeek": 784,
-    "timeMonth": 784,
-    "timeYear": 784,
+    "status": "up",
+    "uptime": "99.08%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.08%",
+    "time": 725,
+    "timeDay": 1277,
+    "timeWeek": 725,
+    "timeMonth": 725,
+    "timeYear": 725,
     "dailyMinutesDown": {
-      "2025-01-18": 0
+      "2025-01-18": 17
     }
   },
   {
@@ -147,19 +147,19 @@
     "url": "ns1.dc.paulonet.eu",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "demo-dns-provider-ns-1",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 118,
-    "timeDay": 97,
-    "timeWeek": 118,
-    "timeMonth": 118,
-    "timeYear": 118,
+    "status": "up",
+    "uptime": "99.08%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.08%",
+    "uptimeYear": "99.08%",
+    "time": 127,
+    "timeDay": 130,
+    "timeWeek": 127,
+    "timeMonth": 127,
+    "timeYear": 127,
     "dailyMinutesDown": {
-      "2025-01-18": 0
+      "2025-01-18": 17
     }
   }
 ]

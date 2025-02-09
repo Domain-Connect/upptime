@@ -12,7 +12,7 @@
     "uptimeYear": "99.90%",
     "time": 912,
     "timeDay": 336,
-    "timeWeek": 430,
+    "timeWeek": 450,
     "timeMonth": 428,
     "timeYear": 866,
     "dailyMinutesDown": {
@@ -34,7 +34,7 @@
     "uptimeYear": "99.90%",
     "time": 185,
     "timeDay": 31,
-    "timeWeek": 164,
+    "timeWeek": 167,
     "timeMonth": 172,
     "timeYear": 186,
     "dailyMinutesDown": {
@@ -47,9 +47,9 @@
     "url": "https://dynamicdns.domainconnect.org/ddnscode?code=test&state=null",
     "icon": "https://icons.duckduckgo.com/ip3/dynamicdns.domainconnect.org.ico",
     "slug": "domainconnect-org-dyn-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "99.86%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.64%",
@@ -59,6 +59,7 @@
     "timeMonth": 335,
     "timeYear": 324,
     "dailyMinutesDown": {
+      "2025-02-09": 0,
       "2025-01-12": 17,
       "2024-07-03": 18,
       "2024-04-02": 102,

@@ -1,7 +1,7 @@
 url: https://exampleservice.domainconnect.org/
-status: down
-code: 403
-responseTime: 89
-lastUpdated: 2025-02-22T07:00:08.771Z
+status: up
+code: 200
+responseTime: 160
+lastUpdated: 2025-02-22T07:14:37.193Z
 startTime: 2022-03-01T08:46:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>

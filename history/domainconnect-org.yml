@@ -1,7 +1,7 @@
 url: https://domainconnect.org
-status: up
-code: 200
-responseTime: 314
-lastUpdated: 2025-06-15T23:14:40.900Z
+status: down
+code: 502
+responseTime: 19542
+lastUpdated: 2025-06-16T07:11:22.370Z
 startTime: 2022-03-01T08:46:55.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -135,9 +135,9 @@
     "url": "https://domainconnect.paulonet.eu/dc/free/templateedit",
     "icon": "https://icons.duckduckgo.com/ip3/domainconnect.paulonet.eu.ico",
     "slug": "domain-connect-open-template-editor",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -147,6 +147,7 @@
     "timeMonth": 671,
     "timeYear": 746,
     "dailyMinutesDown": {
+      "2025-07-20": 0,
       "2025-06-12": 19,
       "2025-03-07": 18,
       "2025-01-18": 17
@@ -157,9 +158,9 @@
     "url": "https://domainconnect.paulonet.eu/",
     "icon": "https://icons.duckduckgo.com/ip3/domainconnect.paulonet.eu.ico",
     "slug": "domain-connect-demo-dns-provider",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -169,6 +170,7 @@
     "timeMonth": 306,
     "timeYear": 315,
     "dailyMinutesDown": {
+      "2025-07-20": 0,
       "2025-01-18": 17
     }
   },

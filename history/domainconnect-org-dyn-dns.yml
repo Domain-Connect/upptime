@@ -1,7 +1,7 @@
 url: https://dynamicdns.domainconnect.org/ddnscode?code=test&state=null
-status: up
-code: 200
-responseTime: 398
-lastUpdated: 2026-01-01T23:17:14.301Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2026-01-02T09:57:40.827Z
 startTime: 2022-03-01T08:47:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>

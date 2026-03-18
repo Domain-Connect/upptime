@@ -6,14 +6,14 @@
     "slug": "domainconnect-org",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "91.70%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.81%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "98.54%",
-    "time": 543,
-    "timeDay": 387,
-    "timeWeek": 465,
-    "timeMonth": 525,
+    "time": 542,
+    "timeDay": 436,
+    "timeWeek": 434,
+    "timeMonth": 517,
     "timeYear": 585,
     "dailyMinutesDown": {
       "2026-03-16": 119,
@@ -53,8 +53,7 @@
       "2025-04-04": 52,
       "2025-03-28": 38,
       "2025-03-26": 31,
-      "2025-03-25": 15,
-      "2025-03-18": 29
+      "2025-03-25": 15
     }
   },
   {
@@ -64,15 +63,15 @@
     "slug": "domainconnect-org-example-service",
     "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "91.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.82%",
     "uptimeMonth": "99.59%",
     "uptimeYear": "98.56%",
     "time": 198,
-    "timeDay": 146,
-    "timeWeek": 164,
-    "timeMonth": 191,
-    "timeYear": 213,
+    "timeDay": 61,
+    "timeWeek": 146,
+    "timeMonth": 186,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2026-03-16": 119,
       "2026-02-23": 60,
@@ -108,8 +107,7 @@
       "2025-04-04": 52,
       "2025-03-28": 38,
       "2025-03-26": 31,
-      "2025-03-25": 15,
-      "2025-03-18": 29
+      "2025-03-25": 15
     }
   },
   {
@@ -119,14 +117,14 @@
     "slug": "domainconnect-org-dyn-dns",
     "status": "up",
     "uptime": "99.57%",
-    "uptimeDay": "91.84%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.83%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "98.72%",
     "time": 367,
-    "timeDay": 238,
-    "timeWeek": 356,
-    "timeMonth": 462,
+    "timeDay": 365,
+    "timeWeek": 348,
+    "timeMonth": 469,
     "timeYear": 377,
     "dailyMinutesDown": {
       "2026-03-16": 117,
@@ -158,8 +156,7 @@
       "2025-04-19": 563,
       "2025-04-15": 17,
       "2025-04-04": 51,
-      "2025-03-26": 31,
-      "2025-03-18": 29
+      "2025-03-26": 31
     }
   },
   {
@@ -169,15 +166,15 @@
     "slug": "domainconnect-org-status-website",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "91.90%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "98.84%",
     "uptimeMonth": "99.73%",
     "uptimeYear": "99.97%",
     "time": 233,
-    "timeDay": 185,
-    "timeWeek": 199,
+    "timeDay": 144,
+    "timeWeek": 194,
     "timeMonth": 198,
-    "timeYear": 245,
+    "timeYear": 244,
     "dailyMinutesDown": {
       "2026-03-16": 117,
       "2025-12-24": 22,
@@ -196,10 +193,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 752,
-    "timeDay": 1262,
-    "timeWeek": 688,
-    "timeMonth": 761,
-    "timeYear": 729,
+    "timeDay": 893,
+    "timeWeek": 748,
+    "timeMonth": 767,
+    "timeYear": 730,
     "dailyMinutesDown": {
       "2025-06-12": 19
     }
@@ -216,9 +213,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 399,
-    "timeWeek": 312,
-    "timeMonth": 318,
+    "timeDay": 268,
+    "timeWeek": 313,
+    "timeMonth": 315,
     "timeYear": 308,
     "dailyMinutesDown": {}
   },
@@ -234,9 +231,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 567,
-    "timeDay": 559,
+    "timeDay": 381,
     "timeWeek": 474,
-    "timeMonth": 507,
+    "timeMonth": 497,
     "timeYear": 572,
     "dailyMinutesDown": {}
   },
@@ -252,9 +249,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 120,
-    "timeDay": 158,
-    "timeWeek": 115,
-    "timeMonth": 121,
+    "timeDay": 111,
+    "timeWeek": 118,
+    "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {}
   }

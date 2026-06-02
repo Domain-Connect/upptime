@@ -4,16 +4,16 @@
     "url": "https://domainconnect.org",
     "icon": "https://icons.duckduckgo.com/ip3/domainconnect.org.ico",
     "slug": "domainconnect-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.07%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "98.06%",
     "uptimeYear": "99.57%",
     "time": 543,
-    "timeDay": 426,
-    "timeWeek": 552,
-    "timeMonth": 428,
+    "timeDay": 337,
+    "timeWeek": 514,
+    "timeMonth": 423,
     "timeYear": 580,
     "dailyMinutesDown": {
       "2025-06-16": 19,
@@ -54,7 +54,8 @@
       "2026-05-16": 120,
       "2026-05-18": 229,
       "2026-05-23": 52,
-      "2026-05-25": 144
+      "2026-05-25": 144,
+      "2026-06-02": 5
     }
   },
   {
@@ -62,16 +63,16 @@
     "url": "https://exampleservice.domainconnect.org/",
     "icon": "https://icons.duckduckgo.com/ip3/exampleservice.domainconnect.org.ico",
     "slug": "domainconnect-org-example-service",
-    "status": "up",
+    "status": "down",
     "uptime": "98.75%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.15%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "98.14%",
     "uptimeYear": "99.60%",
     "time": 200,
-    "timeDay": 225,
-    "timeWeek": 181,
-    "timeMonth": 173,
+    "timeDay": 158,
+    "timeWeek": 170,
+    "timeMonth": 171,
     "timeYear": 200,
     "dailyMinutesDown": {
       "2025-07-20": 62,
@@ -110,7 +111,8 @@
       "2026-05-16": 111,
       "2026-05-18": 224,
       "2026-05-23": 47,
-      "2026-05-25": 144
+      "2026-05-25": 144,
+      "2026-06-02": 5
     }
   },
   {
@@ -118,9 +120,9 @@
     "url": "https://dynamicdns.domainconnect.org/ddnscode?code=test&state=null",
     "icon": "https://icons.duckduckgo.com/ip3/dynamicdns.domainconnect.org.ico",
     "slug": "domainconnect-org-dyn-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.72%",
@@ -159,7 +161,8 @@
       "2026-04-17": 51,
       "2026-04-26": 36,
       "2026-05-03": 94,
-      "2026-05-25": 139
+      "2026-05-25": 139,
+      "2026-06-02": 0
     }
   },
   {

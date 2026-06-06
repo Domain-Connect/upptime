@@ -4,17 +4,17 @@
     "url": "https://domainconnect.org",
     "icon": "https://icons.duckduckgo.com/ip3/domainconnect.org.ico",
     "slug": "domainconnect-org",
-    "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "89.02%",
-    "uptimeWeek": "97.70%",
-    "uptimeMonth": "97.76%",
-    "uptimeYear": "99.53%",
+    "status": "up",
+    "uptime": "99.49%",
+    "uptimeDay": "27.48%",
+    "uptimeWeek": "88.91%",
+    "uptimeMonth": "95.74%",
+    "uptimeYear": "99.36%",
     "time": 545,
-    "timeDay": 581,
-    "timeWeek": 593,
-    "timeMonth": 449,
-    "timeYear": 581,
+    "timeDay": 342,
+    "timeWeek": 539,
+    "timeMonth": 441,
+    "timeYear": 580,
     "dailyMinutesDown": {
       "2025-06-16": 19,
       "2025-06-25": 36,
@@ -57,7 +57,7 @@
       "2026-05-25": 144,
       "2026-06-03": 25,
       "2026-06-02": 48,
-      "2026-06-06": 158
+      "2026-06-06": 1044
     }
   },
   {

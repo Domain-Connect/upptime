@@ -4,16 +4,16 @@
     "url": "https://domainconnect.org",
     "icon": "https://icons.duckduckgo.com/ip3/domainconnect.org.ico",
     "slug": "domainconnect-org",
-    "status": "down",
-    "uptime": "99.49%",
-    "uptimeDay": "71.93%",
-    "uptimeWeek": "88.86%",
-    "uptimeMonth": "95.72%",
-    "uptimeYear": "99.36%",
+    "status": "up",
+    "uptime": "99.48%",
+    "uptimeDay": "71.94%",
+    "uptimeWeek": "86.80%",
+    "uptimeMonth": "95.25%",
+    "uptimeYear": "99.32%",
     "time": 545,
-    "timeDay": 306,
-    "timeWeek": 495,
-    "timeMonth": 446,
+    "timeDay": 371,
+    "timeWeek": 501,
+    "timeMonth": 449,
     "timeYear": 580,
     "dailyMinutesDown": {
       "2025-06-16": 19,
@@ -58,7 +58,7 @@
       "2026-06-03": 25,
       "2026-06-02": 48,
       "2026-06-06": 1044,
-      "2026-06-07": 5
+      "2026-06-07": 213
     }
   },
   {
@@ -66,17 +66,17 @@
     "url": "https://exampleservice.domainconnect.org/",
     "icon": "https://icons.duckduckgo.com/ip3/exampleservice.domainconnect.org.ico",
     "slug": "domainconnect-org-example-service",
-    "status": "down",
-    "uptime": "98.75%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.22%",
-    "uptimeMonth": "98.19%",
-    "uptimeYear": "99.58%",
+    "status": "up",
+    "uptime": "98.74%",
+    "uptimeDay": "85.22%",
+    "uptimeWeek": "97.16%",
+    "uptimeMonth": "97.71%",
+    "uptimeYear": "99.54%",
     "time": 201,
-    "timeDay": 221,
-    "timeWeek": 239,
-    "timeMonth": 182,
-    "timeYear": 201,
+    "timeDay": 297,
+    "timeWeek": 260,
+    "timeMonth": 188,
+    "timeYear": 202,
     "dailyMinutesDown": {
       "2025-07-20": 62,
       "2025-07-22": 21,
@@ -117,7 +117,7 @@
       "2026-05-25": 144,
       "2026-06-03": 25,
       "2026-06-02": 48,
-      "2026-06-07": 5
+      "2026-06-07": 213
     }
   },
   {
@@ -125,16 +125,16 @@
     "url": "https://dynamicdns.domainconnect.org/ddnscode?code=test&state=null",
     "icon": "https://icons.duckduckgo.com/ip3/dynamicdns.domainconnect.org.ico",
     "slug": "domainconnect-org-dyn-dns",
-    "status": "down",
-    "uptime": "99.56%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.53%",
-    "uptimeYear": "99.71%",
-    "time": 366,
-    "timeDay": 191,
-    "timeWeek": 262,
-    "timeMonth": 266,
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "85.56%",
+    "uptimeWeek": "97.26%",
+    "uptimeMonth": "99.05%",
+    "uptimeYear": "99.67%",
+    "time": 362,
+    "timeDay": 312,
+    "timeWeek": 283,
+    "timeMonth": 271,
     "timeYear": 368,
     "dailyMinutesDown": {
       "2025-07-20": 61,
@@ -169,7 +169,7 @@
       "2026-05-25": 139,
       "2026-06-03": 25,
       "2026-06-02": 43,
-      "2026-06-07": 0
+      "2026-06-07": 208
     }
   },
   {

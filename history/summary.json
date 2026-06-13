@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.47%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.63%",
+    "uptimeWeek": "92.97%",
     "uptimeMonth": "95.11%",
     "uptimeYear": "99.27%",
     "time": 548,
@@ -127,11 +127,11 @@
     "url": "https://dynamicdns.domainconnect.org/ddnscode?code=test&state=null",
     "icon": "https://icons.duckduckgo.com/ip3/dynamicdns.domainconnect.org.ico",
     "slug": "domainconnect-org-dyn-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "95.34%",
-    "uptimeMonth": "98.46%",
+    "uptimeMonth": "98.45%",
     "uptimeYear": "99.62%",
     "time": 362,
     "timeDay": 244,
@@ -172,7 +172,8 @@
       "2026-06-03": 25,
       "2026-06-02": 43,
       "2026-06-07": 208,
-      "2026-06-10": 262
+      "2026-06-10": 262,
+      "2026-06-13": 0
     }
   },
   {

@@ -129,10 +129,10 @@
     "slug": "domainconnect-org-dyn-dns",
     "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "95.26%",
-    "uptimeWeek": "94.67%",
-    "uptimeMonth": "98.30%",
-    "uptimeYear": "99.61%",
+    "uptimeDay": "83.56%",
+    "uptimeWeek": "92.99%",
+    "uptimeMonth": "97.91%",
+    "uptimeYear": "99.58%",
     "time": 362,
     "timeDay": 241,
     "timeWeek": 318,
@@ -174,7 +174,7 @@
       "2026-06-07": 208,
       "2026-06-10": 262,
       "2026-06-13": 68,
-      "2026-06-14": 0
+      "2026-06-14": 169
     }
   },
   {

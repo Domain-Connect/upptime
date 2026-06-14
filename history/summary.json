@@ -127,17 +127,17 @@
     "url": "https://dynamicdns.domainconnect.org/ddnscode?code=test&state=null",
     "icon": "https://icons.duckduckgo.com/ip3/dynamicdns.domainconnect.org.ico",
     "slug": "domainconnect-org-dyn-dns",
-    "status": "down",
-    "uptime": "99.53%",
-    "uptimeDay": "83.56%",
-    "uptimeWeek": "92.99%",
-    "uptimeMonth": "97.91%",
-    "uptimeYear": "99.58%",
+    "status": "up",
+    "uptime": "99.52%",
+    "uptimeDay": "76.17%",
+    "uptimeWeek": "91.94%",
+    "uptimeMonth": "97.67%",
+    "uptimeYear": "99.56%",
     "time": 362,
-    "timeDay": 241,
-    "timeWeek": 318,
-    "timeMonth": 286,
-    "timeYear": 367,
+    "timeDay": 205,
+    "timeWeek": 301,
+    "timeMonth": 282,
+    "timeYear": 366,
     "dailyMinutesDown": {
       "2025-07-20": 61,
       "2025-07-22": 20,
@@ -174,7 +174,7 @@
       "2026-06-07": 208,
       "2026-06-10": 262,
       "2026-06-13": 68,
-      "2026-06-14": 169
+      "2026-06-14": 275
     }
   },
   {

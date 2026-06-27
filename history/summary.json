@@ -4,11 +4,11 @@
     "url": "https://domainconnect.org",
     "icon": "https://icons.duckduckgo.com/ip3/domainconnect.org.ico",
     "slug": "domainconnect-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.45%",
-    "uptimeDay": "95.21%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "94.96%",
+    "uptimeDay": "94.87%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "94.94%",
     "uptimeYear": "99.16%",
     "time": 554,
     "timeDay": 551,
@@ -61,7 +61,7 @@
       "2026-06-16": 380,
       "2026-06-19": 96,
       "2026-06-24": 67,
-      "2026-06-27": 69
+      "2026-06-27": 74
     }
   },
   {
@@ -69,9 +69,9 @@
     "url": "https://exampleservice.domainconnect.org/",
     "icon": "https://icons.duckduckgo.com/ip3/exampleservice.domainconnect.org.ico",
     "slug": "domainconnect-org-example-service",
-    "status": "up",
+    "status": "down",
     "uptime": "98.72%",
-    "uptimeDay": "95.23%",
+    "uptimeDay": "95.22%",
     "uptimeWeek": "98.70%",
     "uptimeMonth": "97.36%",
     "uptimeYear": "99.38%",

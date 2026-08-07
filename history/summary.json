@@ -4,17 +4,17 @@
     "url": "https://domainconnect.org",
     "icon": "https://icons.duckduckgo.com/ip3/domainconnect.org.ico",
     "slug": "domainconnect-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.48%",
-    "uptimeMonth": "98.73%",
+    "uptimeDay": "99.64%",
+    "uptimeWeek": "96.43%",
+    "uptimeMonth": "98.72%",
     "uptimeYear": "98.91%",
     "time": 566,
-    "timeDay": 577,
-    "timeWeek": 502,
-    "timeMonth": 487,
-    "timeYear": 544,
+    "timeDay": 313,
+    "timeWeek": 469,
+    "timeMonth": 476,
+    "timeYear": 543,
     "dailyMinutesDown": {
       "2025-08-10": 92,
       "2025-08-13": 19,
@@ -67,7 +67,8 @@
       "2026-07-26": 57,
       "2026-08-01": 53,
       "2026-08-03": 220,
-      "2026-08-04": 82
+      "2026-08-04": 82,
+      "2026-08-07": 5
     }
   },
   {
@@ -75,17 +76,17 @@
     "url": "https://exampleservice.domainconnect.org/",
     "icon": "https://icons.duckduckgo.com/ip3/exampleservice.domainconnect.org.ico",
     "slug": "domainconnect-org-example-service",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.48%",
-    "uptimeMonth": "98.75%",
+    "uptimeDay": "99.65%",
+    "uptimeWeek": "96.43%",
+    "uptimeMonth": "98.73%",
     "uptimeYear": "99.13%",
     "time": 211,
-    "timeDay": 439,
-    "timeWeek": 263,
-    "timeMonth": 223,
-    "timeYear": 209,
+    "timeDay": 243,
+    "timeWeek": 248,
+    "timeMonth": 219,
+    "timeYear": 208,
     "dailyMinutesDown": {
       "2025-08-10": 92,
       "2025-08-13": 19,
@@ -137,7 +138,8 @@
       "2026-07-26": 56,
       "2026-08-01": 53,
       "2026-08-03": 220,
-      "2026-08-04": 82
+      "2026-08-04": 82,
+      "2026-08-07": 5
     }
   },
   {
@@ -145,10 +147,10 @@
     "url": "https://dynamicdns.domainconnect.org/ddnscode?code=test&state=null",
     "icon": "https://icons.duckduckgo.com/ip3/dynamicdns.domainconnect.org.ico",
     "slug": "domainconnect-org-dyn-dns",
-    "status": "up",
+    "status": "down",
     "uptime": "99.50%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "96.63%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "96.62%",
     "uptimeMonth": "99.11%",
     "uptimeYear": "99.42%",
     "time": 360,
@@ -196,7 +198,8 @@
       "2026-07-26": 52,
       "2026-08-01": 48,
       "2026-08-03": 215,
-      "2026-08-04": 77
+      "2026-08-04": 77,
+      "2026-08-07": 0
     }
   },
   {

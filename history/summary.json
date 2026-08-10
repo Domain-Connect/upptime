@@ -4,11 +4,11 @@
     "url": "https://domainconnect.org",
     "icon": "https://icons.duckduckgo.com/ip3/domainconnect.org.ico",
     "slug": "domainconnect-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "97.76%",
-    "uptimeWeek": "96.91%",
-    "uptimeMonth": "98.74%",
+    "uptimeDay": "97.41%",
+    "uptimeWeek": "97.02%",
+    "uptimeMonth": "98.72%",
     "uptimeYear": "98.89%",
     "time": 566,
     "timeDay": 355,
@@ -69,7 +69,8 @@
       "2026-08-04": 82,
       "2026-08-07": 57,
       "2026-08-08": 53,
-      "2026-08-09": 32
+      "2026-08-09": 32,
+      "2026-08-10": 5
     }
   },
   {
@@ -77,12 +78,12 @@
     "url": "https://exampleservice.domainconnect.org/",
     "icon": "https://icons.duckduckgo.com/ip3/exampleservice.domainconnect.org.ico",
     "slug": "domainconnect-org-example-service",
-    "status": "up",
+    "status": "down",
     "uptime": "98.69%",
-    "uptimeDay": "92.27%",
-    "uptimeWeek": "96.22%",
+    "uptimeDay": "92.25%",
+    "uptimeWeek": "96.38%",
     "uptimeMonth": "98.58%",
-    "uptimeYear": "99.09%",
+    "uptimeYear": "99.10%",
     "time": 213,
     "timeDay": 209,
     "timeWeek": 227,
@@ -141,7 +142,8 @@
       "2026-08-04": 82,
       "2026-08-07": 57,
       "2026-08-08": 43,
-      "2026-08-09": 111
+      "2026-08-09": 111,
+      "2026-08-10": 0
     }
   },
   {
@@ -152,7 +154,7 @@
     "status": "up",
     "uptime": "99.50%",
     "uptimeDay": "98.11%",
-    "uptimeWeek": "97.58%",
+    "uptimeWeek": "97.74%",
     "uptimeMonth": "98.93%",
     "uptimeYear": "99.41%",
     "time": 359,

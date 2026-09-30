@@ -4,17 +4,17 @@
     "url": "https://domainconnect.org",
     "icon": "https://icons.duckduckgo.com/ip3/domainconnect.org.ico",
     "slug": "domainconnect-org",
-    "status": "down",
-    "uptime": "99.39%",
-    "uptimeDay": "99.65%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "98.78%",
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "72.87%",
+    "uptimeWeek": "96.12%",
+    "uptimeMonth": "98.22%",
+    "uptimeYear": "98.71%",
     "time": 575,
-    "timeDay": 674,
-    "timeWeek": 633,
-    "timeMonth": 656,
-    "timeYear": 566,
+    "timeDay": 751,
+    "timeWeek": 658,
+    "timeMonth": 662,
+    "timeYear": 567,
     "dailyMinutesDown": {
       "2025-10-19": 59,
       "2025-10-18": 4,
@@ -70,7 +70,7 @@
       "2026-09-20": 36,
       "2026-09-19": 35,
       "2026-09-21": 317,
-      "2026-09-30": 5
+      "2026-09-30": 391
     }
   },
   {
@@ -78,16 +78,16 @@
     "url": "https://exampleservice.domainconnect.org/",
     "icon": "https://icons.duckduckgo.com/ip3/exampleservice.domainconnect.org.ico",
     "slug": "domainconnect-org-example-service",
-    "status": "down",
-    "uptime": "98.69%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "98.99%",
+    "status": "up",
+    "uptime": "98.68%",
+    "uptimeDay": "73.20%",
+    "uptimeWeek": "96.17%",
+    "uptimeMonth": "98.26%",
+    "uptimeYear": "98.92%",
     "time": 211,
-    "timeDay": 418,
-    "timeWeek": 344,
-    "timeMonth": 325,
+    "timeDay": 301,
+    "timeWeek": 324,
+    "timeMonth": 321,
     "timeYear": 217,
     "dailyMinutesDown": {
       "2025-10-19": 59,
@@ -143,7 +143,7 @@
       "2026-09-20": 36,
       "2026-09-19": 30,
       "2026-09-21": 312,
-      "2026-09-30": 0
+      "2026-09-30": 386
     }
   },
   {
